@@ -48,8 +48,6 @@ int main(){
 complex c1,c2,c3,c4;
 c1.setvalues(2,3);
 c2.setvalues(4,5);
-// c3=c1+c2;
-// c3=c1.operator *(c2);
 c3=c1*5;
 c1.print();
 c2.print();
